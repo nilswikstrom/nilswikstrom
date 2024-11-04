@@ -5,12 +5,12 @@ Welcome to my GitHub profile! Here, you will find some of my favorite projects, 
 ## About me
 
 I am currently...  
-👨‍🎓 studying to become an electrical and telematics engineer  
-🔭 working on operating systems  
-🌱 learning C and Python  
-🤔 looking for help with C and Python  
+👨‍🎓 studying to become an **electrical and telematics engineer**  
+🔭 working on **operating systems**  
+🌱 learning **C** & **Python**  
+🤔 looking for help with **C** & **Python**  
 
-## Languages and tools I use
+## ⚒️ Languages and tools I use ⚒️
 
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -22,6 +22,15 @@ I am currently...
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=mysql&logoColor=white)
+<!--![Linux](https://img.shields.io/badge/-LINUX-336791?style=flat-square&logo=linux&logoColor=white)
+
+<!--<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,python,javascript,c,mysql,php,blender," />
+    <img src="https://skillicons.dev/icons?i=nodejstypescript,express,firebase,mongodb,java,nextjs,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=instagram,facebook,twitter,linkedin,snapchat,raspberrypi,photoshop,powershell,illustrator,premiere,aftereffects,linux,wordpress,windows,notion" />
+</div>
 
 ## Find me around the web <img alt="Globe🌍" height="40" src="images/globe.gif">
 

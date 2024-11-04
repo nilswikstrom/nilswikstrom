@@ -58,24 +58,24 @@ I am currently...
 </a>
 
 <!-- [nilswikstrom's GitHub stats-Dark] -->  
-<!--  -->
+<!--  
 <div style="display: flex; flex-direction: row;" align=center>
  <img class="img" width=390 src="https://github-readme-stats.vercel.app/api?username=nilswikstrom&show_icons=true&theme=tokyonight#gh-dark-mode-only" alt="readme stats" />
  <img class="img" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilswikstrom&theme=tokyonight&layout=compact#gh-dark-mode-only" alt="top langs" />
 </div>
 
 <!-- [nilswikstrom's GitHub stats-Light] -->  
-<!--  -->
+<!--  
 <div style="display: flex; flex-direction: row;" align=center>
  <img class="img" width=390 src="https://github-readme-stats.vercel.app/api?username=nilswikstrom&show_icons=true&theme=ambient_gradient#gh-light-mode-only" alt="readme stats" />
  <img class="img" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilswikstrom&theme=ambient_gradient&layout=compact#gh-light-mode-only" alt="top langs" />
 </div> -->
 
-<!--  -->
+<!--  
 [![nilswikstrom's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nilswikstrom&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![nilswikstrom's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=nilswikstrom&show_icons=true&theme=ambient_gradient#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) -->
 
-<!--  -->
+<!--  
 [![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=nilswikstrom&layout=donut&theme=tokyonight#gh-dark-mode-only)](https://github.com/nilswikstrom/github-readme-stats#gh-dark-mode-only)
 [![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=nilswikstrom&layout=donut&theme=ambient_gradient#gh-light-mode-only)](https://github.com/nilswikstrom/github-readme-stats#gh-light-mode-only) -->
 
@@ -97,5 +97,4 @@ I am currently...
 <br />
 
 ![Visitor Count](https://profile-counter.glitch.me/nilswikstrom/count.svg)  
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nilswikstrom.nilswikstrom" />  
-<img align="right" src="https://profile-counter.glitch.me/nilswikstrom/count.svg" />
+<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nilswikstrom.nilswikstrom" /> -->

@@ -30,7 +30,7 @@ I am currently...
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,python,javascript,c,mysql,php,blender," />
     <img src="https://skillicons.dev/icons?i=nodejstypescript,express,firebase,mongodb,java,nextjs,flask" /><br>
     <img src="https://skillicons.dev/icons?i=instagram,facebook,twitter,linkedin,snapchat,raspberrypi,photoshop,powershell,illustrator,premiere,aftereffects,linux,wordpress,windows,notion" />
-</div>
+</div> -->
 
 ## Find me around the web <img alt="Globe🌍" height="40" src="images/globe.gif">
 
@@ -93,7 +93,7 @@ I am currently...
 <!-- Guestbook -->
 
 <div align="center">
-<a href="https://github.com/nilswikstrom/nilswikstrom/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
+<a href="https://github.com/nilswikstrom/nilswikstrom/issues/1#issuecomment-new"><img src="images/guestbook.svg"></a> 
 </div>
 
 <!-- /Guestbook -->

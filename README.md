@@ -41,11 +41,11 @@ I am currently...
 
 | Name | Date | Message |
 |---|---|---|
-| <a href="https://github.com/"><img width="24" src="https://avatars.githubusercontent.com/u/" alt="" /> </a> |11/3/2024, 7:03:21 PM|Hello from the darkside|
-| <a href="https://github.com/sanketshinde3001"><img width="24" src="https://avatars.githubusercontent.com/u/126979961?s=24&u=d260bd67662c3cfceba666556fdfe8900be3c796&v=4" alt="sanketshinde3001" /> sanketshinde3001</a> |11/2/2024, 6:15:24 PM||
-| <a href="https://github.com/k13polina"><img width="24" src="https://avatars.githubusercontent.com/u/186172477?s=24&u=16e65b9af525fb36f468c8b6aaa1cc81d2a69dfb&v=4" alt="k13polina" /> k13polina</a> |10/27/2024, 12:59:29 PM|Hi!|
-| <a href="https://github.com/rsp2308"><img width="24" src="https://avatars.githubusercontent.com/u/109982622?s=24&u=2752c2e467f29a69edf3836fc5bcd582e80fe31c&v=4" alt="rsp2308" /> rsp2308</a> |10/27/2024, 12:30:42 PM|well hello , nyc readme tho🥸|
-| <a href="https://github.com/evalieve"><img width="24" src="https://avatars.githubusercontent.com/u/82043576?s=24&u=7e56ab7d724b5f51c5ac0c13db5f45836e3af33a&v=4" alt="evalieve" /> evalieve</a> |10/23/2024, 9:53:54 PM|Kiekeboe|
+| <a href="https://github.com/"><img width="24" src="https://avatars.githubusercontent.com/u/" alt="" /> </a> |, ||
+| <a href="https://github.com/"><img width="24" src="https://avatars.githubusercontent.com/u/" alt="" /> </a> |, ||
+| <a href="https://github.com/"><img width="24" src="https://avatars.githubusercontent.com/u/" alt="" /> </a> |, ||
+| <a href="https://github.com/"><img width="24" src="https://avatars.githubusercontent.com/u/" alt="" /> </a> |, ||
+| <a href="https://github.com/"><img width="24" src="https://avatars.githubusercontent.com/u/" alt="" /> </a> |, ||
 
 <!-- /Guestbook -->
 

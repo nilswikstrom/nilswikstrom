@@ -32,18 +32,52 @@ I am currently...
 
 ## GitHub Stats
 
+<!-- template -->  
+<!--  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a> -->
+
+<!-- [nilswikstrom's GitHub stats-Dark] -->  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nilswikstrom&theme=tokyonight#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nilswikstrom&layout=compact&langs_count=8&card_width=320&theme=tokyonight#gh-dark-mode-only" />
 </a>
 
-[![nilswikstrom's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nilswikstrom&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![nilswikstrom's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=nilswikstrom&show_icons=true&theme=ambient_gradient#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<!-- [nilswikstrom's GitHub stats-Dark] -->  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nilswikstrom&theme=ambient_gradient#gh-light-mode-only" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nilswikstrom&layout=compact&langs_count=8&card_width=320&theme=ambient_gradient#gh-light-mode-only" />
+</a>
 
+<!-- [nilswikstrom's GitHub stats-Dark] -->  
+<!--
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=nilswikstrom&show_icons=true&theme=tokyonight#gh-dark-mode-only" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilswikstrom&theme=tokyonight&layout=compact#gh-dark-mode-only" />
+</div>
+
+<!-- [nilswikstrom's GitHub stats-Dark] -->  
+<!--  
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=nilswikstrom&show_icons=true&theme=ambient_gradient#gh-light-mode-only" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilswikstrom&theme=ambient_gradient&layout=compact#gh-light-mode-only" />
+</div> -->
+
+<!--  
+[![nilswikstrom's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nilswikstrom&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![nilswikstrom's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=nilswikstrom&show_icons=true&theme=ambient_gradient#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) -->
+
+<!--  
 [![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=nilswikstrom&layout=donut&theme=tokyonight#gh-dark-mode-only)](https://github.com/nilswikstrom/github-readme-stats#gh-dark-mode-only)
-[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=nilswikstrom&layout=donut&theme=ambient_gradient#gh-light-mode-only)](https://github.com/nilswikstrom/github-readme-stats#gh-light-mode-only)
+[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=nilswikstrom&layout=donut&theme=ambient_gradient#gh-light-mode-only)](https://github.com/nilswikstrom/github-readme-stats#gh-light-mode-only) -->
 
 <!-- /Stats -->
 

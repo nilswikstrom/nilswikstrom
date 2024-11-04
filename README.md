@@ -39,14 +39,6 @@ I am currently...
 <a href="https://github.com/nilswikstrom/nilswikstrom/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
 </div>
 
-| Name | Date | Message |
-|---|---|---|
-| <a href="https://github.com/"><img width="24" src="https://avatars.githubusercontent.com/u/" alt="" /> </a> |, ||
-| <a href="https://github.com/"><img width="24" src="https://avatars.githubusercontent.com/u/" alt="" /> </a> |, ||
-| <a href="https://github.com/"><img width="24" src="https://avatars.githubusercontent.com/u/" alt="" /> </a> |, ||
-| <a href="https://github.com/"><img width="24" src="https://avatars.githubusercontent.com/u/" alt="" /> </a> |, ||
-| <a href="https://github.com/"><img width="24" src="https://avatars.githubusercontent.com/u/" alt="" /> </a> |, ||
-
 <!-- /Guestbook -->
 
 <!-- Footer -->

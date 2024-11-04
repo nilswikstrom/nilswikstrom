@@ -43,18 +43,18 @@ I am currently...
 
 <!-- [nilswikstrom's GitHub stats-Dark] -->  
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nilswikstrom&theme=tokyonight#gh-dark-mode-only" />
+  <img height=200 width=390 align="center" src="https://github-readme-stats.vercel.app/api?username=nilswikstrom&theme=tokyonight#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat#gh-dark-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nilswikstrom&layout=compact&langs_count=8&card_width=320&theme=tokyonight#gh-dark-mode-only" />
+  <img height=200 width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nilswikstrom&layout=compact&langs_count=8&card_width=320&theme=tokyonight#gh-dark-mode-only" />
 </a>
 
 <!-- [nilswikstrom's GitHub stats-Light] -->  
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nilswikstrom&theme=ambient_gradient#gh-light-mode-only" />
+  <img height=200 width=390 align="center" src="https://github-readme-stats.vercel.app/api?username=nilswikstrom&theme=ambient_gradient#gh-light-mode-only" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat#gh-light-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nilswikstrom&layout=compact&langs_count=8&card_width=320&theme=ambient_gradient#gh-light-mode-only" />
+  <img height=200 width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nilswikstrom&layout=compact&langs_count=8&card_width=320&theme=ambient_gradient#gh-light-mode-only" />
 </a>
 
 <!-- [nilswikstrom's GitHub stats-Dark] -->  

@@ -2,6 +2,14 @@
 
 Welcome to my GitHub profile! Here, you will find some of my favorite projects, ranging from coding and web-development, to 3D-printing, as well as CTF-writeups.
 
+## About me
+
+I am currently...  
+👨‍🎓 studying to become an electrical and telematics engineer  
+🔭 working on operating systems  
+🌱 learning C and Python  
+🤔 looking for help with C and Python  
+
 ## Languages and tools I use
 
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
@@ -21,17 +29,6 @@ Welcome to my GitHub profile! Here, you will find some of my favorite projects, 
 
 - [LinkedIn](https://www.linkedin.com/in/nils-christian-wikstrøm-a481b5208/)
 - [X/Twitter](https://x.com/_nisken_)
-
-Some info. about me:
-
-- 🔭 I’m currently working on microcontrollers
-- 🌱 I’m currently learning microcontrollers, C and Python
-- 👯 I’m looking to collaborate on small projects
-- 🤔 I’m looking for help with microcontrollers, C and Python
-- 💬 Ask me about something funny
-- 📫 How to reach me: https://www.linkedin.com/in/nils-christian-wikstrøm-a481b5208/
-- 😄 Pronouns: They / Don't know me son
-- ⚡ Fun fact: ...
 
 ## GitHub Stats
 

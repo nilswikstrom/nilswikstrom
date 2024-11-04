@@ -5,6 +5,9 @@
 
 # Find me around the web 🌍:
 
+- [LinkedIn](https://www.linkedin.com/in/nils-christian-wikstrøm-a481b5208/)
+- [X/Twitter](https://x.com/_nisken_)
+
 Some info. about me:
 
 - 🔭 I’m currently working on microcontrollers
@@ -18,4 +21,5 @@ Some info. about me:
 
 ## GitHub Stats
 
-[![nilswikstrom's GitHub stats](https://github-readme-stats.vercel.app/api?username=nilswikstrom&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![nilswikstrom's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nilswikstrom&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![nilswikstrom's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=nilswikstrom&show_icons=true&theme=ambient_gradient#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)

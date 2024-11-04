@@ -30,7 +30,7 @@ I am currently...
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,python,javascript,c,mysql,php,blender," />
     <img src="https://skillicons.dev/icons?i=nodejstypescript,express,firebase,mongodb,java,nextjs,flask" /><br>
-    <img src="https://skillicons.dev/icons?i=instagram,facebook,twitter,linkedin,snapchat,raspberrypi,photoshop,powershell,illustrator,premiere,aftereffects,linux,wordpress,windows,notion" />
+    <img src="https://skillicons.dev/icons?i=instagram,facebook,twitter,linkedin,snapchat,raspberrypi,photoshop,powershell,illustrator,premiere,aftereffects,linux,wordpress,windows,notion" /> -->
 
 ## <img alt="Globe🌍" height="30" src="images/globe.gif"> Find me around the web! <img alt="Globe🌍" height="30" src="images/globe.gif">
 

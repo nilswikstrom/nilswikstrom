@@ -1,8 +1,9 @@
-### Hi there 👋
+### Hi, I'm Nils Christian! 👋👨‍💻
 
 <!--
 **nihalvorsen/nihalvorsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
+# Find me around the web 🌍:
 
 Some info. about me:
 
@@ -14,3 +15,7 @@ Some info. about me:
 - 📫 How to reach me: https://www.linkedin.com/in/nils-christian-wikstrøm-a481b5208/
 - 😄 Pronouns: They / Don't know me son
 - ⚡ Fun fact: ...
+
+## GitHub Stats
+
+[![nilswikstrom's GitHub stats](https://github-readme-stats.vercel.app/api?username=nilswikstrom&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

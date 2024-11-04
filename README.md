@@ -8,7 +8,7 @@ I am currently...
 👨‍🎓 studying to become an **electrical and telematics engineer**  
 🔭 working on **operating systems**  
 🌱 learning **C** & **Python**  
-🤔 looking for help with **C** & **Python**  
+🤔 looking for help with **C** & **Python**
 
 ## ⚒️ Languages and tools I use ⚒️
 
@@ -22,6 +22,7 @@ I am currently...
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=mysql&logoColor=white)
+
 <!--![Linux](https://img.shields.io/badge/-LINUX-336791?style=flat-square&logo=linux&logoColor=white)
 
 <!--<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -30,7 +31,6 @@ I am currently...
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,python,javascript,c,mysql,php,blender," />
     <img src="https://skillicons.dev/icons?i=nodejstypescript,express,firebase,mongodb,java,nextjs,flask" /><br>
     <img src="https://skillicons.dev/icons?i=instagram,facebook,twitter,linkedin,snapchat,raspberrypi,photoshop,powershell,illustrator,premiere,aftereffects,linux,wordpress,windows,notion" />
-</div> -->
 
 ## Find me around the web <img alt="Globe🌍" height="40" src="images/globe.gif">
 
@@ -42,15 +42,16 @@ I am currently...
 ## GitHub Stats
 
 <!-- template -->  
+
 <!--  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a> -->
 
 <!-- [nilswikstrom's GitHub stats-Dark] -->  
+
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img height=200 width=390 align="center" src="https://github-readme-stats.vercel.app/api?username=nilswikstrom&theme=tokyonight#gh-dark-mode-only" />
 </a>
@@ -59,6 +60,7 @@ I am currently...
 </a>
 
 <!-- [nilswikstrom's GitHub stats-Light] -->  
+
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
   <img height=200 width=390 align="center" src="https://github-readme-stats.vercel.app/api?username=nilswikstrom&theme=ambient_gradient#gh-light-mode-only" />
 </a>
@@ -67,26 +69,23 @@ I am currently...
 </a>
 
 <!-- [nilswikstrom's GitHub stats-Dark] -->  
+
 <!--  
 <div style="display: flex; flex-direction: row;" align=center>
  <img class="img" width=390 src="https://github-readme-stats.vercel.app/api?username=nilswikstrom&show_icons=true&theme=tokyonight#gh-dark-mode-only" alt="readme stats" />
  <img class="img" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilswikstrom&theme=tokyonight&layout=compact#gh-dark-mode-only" alt="top langs" />
 </div>
 
-<!-- [nilswikstrom's GitHub stats-Light] -->  
 <!--  
 <div style="display: flex; flex-direction: row;" align=center>
  <img class="img" width=390 src="https://github-readme-stats.vercel.app/api?username=nilswikstrom&show_icons=true&theme=ambient_gradient#gh-light-mode-only" alt="readme stats" />
  <img class="img" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilswikstrom&theme=ambient_gradient&layout=compact#gh-light-mode-only" alt="top langs" />
-</div> -->
 
 <!--  
 [![nilswikstrom's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nilswikstrom&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![nilswikstrom's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=nilswikstrom&show_icons=true&theme=ambient_gradient#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) -->
 
 <!--  
 [![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=nilswikstrom&layout=donut&theme=tokyonight#gh-dark-mode-only)](https://github.com/nilswikstrom/github-readme-stats#gh-dark-mode-only)
-[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=nilswikstrom&layout=donut&theme=ambient_gradient#gh-light-mode-only)](https://github.com/nilswikstrom/github-readme-stats#gh-light-mode-only) -->
 
 <!-- /Stats -->
 
@@ -96,14 +95,24 @@ I am currently...
 <a href="https://github.com/nilswikstrom/nilswikstrom/issues/1#issuecomment-new"><img src="images/guestbook.svg"></a> 
 </div>
 
+<!--
+| Name | Date | Message |
+|---|---|---|
+| <a href="https://github.com/evalieve"><img width="24" src="https://avatars.githubusercontent.com/u/" alt="" /> </a> |, ||
+| <a href="https://github.com/evalieve"><img width="24" src="https://avatars.githubusercontent.com/u/" alt="" /> </a> |, ||
+| <a href="https://github.com/evalieve"><img width="24" src="https://avatars.githubusercontent.com/u/" alt="" /> </a> |, ||
+| <a href="https://github.com/evalieve"><img width="24" src="https://avatars.githubusercontent.com/u/" alt="" /> </a> |, ||
+| <a href="https://github.com/evalieve"><img width="24" src="https://avatars.githubusercontent.com/u/" alt="" /> </a> |, || -->
+
 <!-- /Guestbook -->
 
 <!-- Footer -->
 
 <div align="center">
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/nilswikstrom/nilswikstrom/master/images/marquee.svg" />
+<img height="120" alt="Thanks for visiting my profile!" width="100%" src="https://raw.githubusercontent.com/nilswikstrom/nilswikstrom/master/images/marquee.svg" />
 <br />
 
-![Visitor Count](https://profile-counter.glitch.me/nilswikstrom/count.svg)  
+![Visitor Count](https://profile-counter.glitch.me/nilswikstrom/count.svg)
+
 <!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nilswikstrom.nilswikstrom" /> -->

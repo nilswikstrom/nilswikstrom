@@ -28,10 +28,24 @@ I am currently...
 - [LinkedIn](https://www.linkedin.com/in/nils-christian-wikstrøm-a481b5208/)
 - [X/Twitter](https://x.com/_nisken_)
 
+<!-- Stats -->
+
 ## GitHub Stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 [![nilswikstrom's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nilswikstrom&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![nilswikstrom's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=nilswikstrom&show_icons=true&theme=ambient_gradient#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=nilswikstrom&layout=donut)](https://github.com/nilswikstrom/github-readme-stats#gh-dark-mode-only)
+[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=nilswikstrom&layout=donut)](https://github.com/nilswikstrom/github-readme-stats#gh-light-mode-only)
+
+<!-- /Stats -->
 
 <!-- Guestbook -->
 

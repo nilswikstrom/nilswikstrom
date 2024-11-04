@@ -20,12 +20,10 @@ I am currently...
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=mysql&logoColor=white)
 
-## Find me around the web 🌍:
+## Find me around the web <img alt="Globe🌍" height="40" src="images/globe.gif">
 
 - [LinkedIn](https://www.linkedin.com/in/nils-christian-wikstrøm-a481b5208/)
 - [X/Twitter](https://x.com/_nisken_)

@@ -25,8 +25,8 @@ I am currently...
 
 ## Find me around the web <img alt="Globe🌍" height="40" src="images/globe.gif">
 
-- [LinkedIn](https://www.linkedin.com/in/nils-christian-wikstrøm-a481b5208/)
-- [X/Twitter](https://x.com/_nisken_)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-007ACC?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nils-christian-wikstrøm-a481b5208/)  
+[![X/Twitter](https://img.shields.io/badge/-X-333333?style=flat-square&logo=X&logoColor=white)](https://x.com/_nisken_)
 
 <!-- Stats -->
 

@@ -25,8 +25,8 @@ I am currently...
 
 ## Find me around the web <img alt="Globe🌍" height="40" src="images/globe.gif">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-007ACC?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nils-christian-wikstrøm-a481b5208/)  
-[![X/Twitter](https://img.shields.io/badge/-X-333333?style=flat-square&logo=X&logoColor=white)](https://x.com/_nisken_)
+[![LinkedIn](https://img.shields.io/badge/-Nils%20Christian%20Wikstrøm-007ACC?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nils-christian-wikstrøm-a481b5208/)  
+[![X/Twitter](https://img.shields.io/badge/-ニルス%20Halvorsen-333333?style=flat-square&logo=X&logoColor=white)](https://x.com/_nisken_)
 
 <!-- Stats -->
 
@@ -58,24 +58,24 @@ I am currently...
 </a>
 
 <!-- [nilswikstrom's GitHub stats-Dark] -->  
-<!--
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=nilswikstrom&show_icons=true&theme=tokyonight#gh-dark-mode-only" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilswikstrom&theme=tokyonight&layout=compact#gh-dark-mode-only" />
+<!--  -->
+<div style="display: flex; flex-direction: row;" align=center>
+ <img class="img" width=390 src="https://github-readme-stats.vercel.app/api?username=nilswikstrom&show_icons=true&theme=tokyonight#gh-dark-mode-only" alt="readme stats" />
+ <img class="img" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilswikstrom&theme=tokyonight&layout=compact#gh-dark-mode-only" alt="top langs" />
 </div>
 
-<!-- [nilswikstrom's GitHub stats-Dark] -->  
-<!--  
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=nilswikstrom&show_icons=true&theme=ambient_gradient#gh-light-mode-only" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilswikstrom&theme=ambient_gradient&layout=compact#gh-light-mode-only" />
+<!-- [nilswikstrom's GitHub stats-Light] -->  
+<!--  -->
+<div style="display: flex; flex-direction: row;" align=center>
+ <img class="img" width=390 src="https://github-readme-stats.vercel.app/api?username=nilswikstrom&show_icons=true&theme=ambient_gradient#gh-light-mode-only" alt="readme stats" />
+ <img class="img" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilswikstrom&theme=ambient_gradient&layout=compact#gh-light-mode-only" alt="top langs" />
 </div> -->
 
-<!--  
+<!--  -->
 [![nilswikstrom's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nilswikstrom&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![nilswikstrom's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=nilswikstrom&show_icons=true&theme=ambient_gradient#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) -->
 
-<!--  
+<!--  -->
 [![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=nilswikstrom&layout=donut&theme=tokyonight#gh-dark-mode-only)](https://github.com/nilswikstrom/github-readme-stats#gh-dark-mode-only)
 [![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=nilswikstrom&layout=donut&theme=ambient_gradient#gh-light-mode-only)](https://github.com/nilswikstrom/github-readme-stats#gh-light-mode-only) -->
 
@@ -96,4 +96,6 @@ I am currently...
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/nilswikstrom/nilswikstrom/master/images/marquee.svg" />
 <br />
 
-![Visitor Count](https://profile-counter.glitch.me/nilswikstrom/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/nilswikstrom/count.svg)  
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nilswikstrom.nilswikstrom" />  
+<img align="right" src="https://profile-counter.glitch.me/nilswikstrom/count.svg" />

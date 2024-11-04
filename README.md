@@ -31,11 +31,11 @@ I am currently...
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,python,javascript,c,mysql,php,blender," />
     <img src="https://skillicons.dev/icons?i=nodejstypescript,express,firebase,mongodb,java,nextjs,flask" /><br>
     <img src="https://skillicons.dev/icons?i=instagram,facebook,twitter,linkedin,snapchat,raspberrypi,photoshop,powershell,illustrator,premiere,aftereffects,linux,wordpress,windows,notion" />
--->
-## Find me around the web <img alt="Globe🌍" height="40" src="images/globe.gif">
+
+## <img alt="Globe🌍" height="30" src="images/globe.gif"> Find me around the web! <img alt="Globe🌍" height="30" src="images/globe.gif">
 
 [![LinkedIn](https://img.shields.io/badge/-Nils%20Christian%20Wikstrøm-007ACC?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nils-christian-wikstrøm-a481b5208/)
-[![X/Twitter](https://img.shields.io/badge/-ニルス%20Halvorsen-333333?style=flat-square&logo=X&logoColor=white)](https://x.com/_nisken_)
+[![X/Twitter](https://img.shields.io/badge/-「ニルス」Halvorsen-333333?style=flat-square&logo=X&logoColor=white)](https://x.com/_nisken_)
 
 <!-- Stats -->
 
@@ -49,8 +49,6 @@ I am currently...
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-
-<!-- [nilswikstrom's GitHub stats-Dark] -->  
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img height=200 width=390 align="center" src="https://github-readme-stats.vercel.app/api?username=nilswikstrom&theme=tokyonight#gh-dark-mode-only" />
@@ -87,8 +85,6 @@ I am currently...
 <!--  
 [![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=nilswikstrom&layout=donut&theme=tokyonight#gh-dark-mode-only)](https://github.com/nilswikstrom/github-readme-stats#gh-dark-mode-only)
 
-<!-- /Stats -->
-
 <!-- Guestbook -->
 
 <div align="center">
@@ -102,7 +98,6 @@ I am currently...
 | <a href="https://github.com/evalieve"><img width="24" src="https://avatars.githubusercontent.com/u/" alt="" /> </a> |, ||
 | <a href="https://github.com/evalieve"><img width="24" src="https://avatars.githubusercontent.com/u/" alt="" /> </a> |, ||
 | <a href="https://github.com/evalieve"><img width="24" src="https://avatars.githubusercontent.com/u/" alt="" /> </a> |, ||
-| <a href="https://github.com/evalieve"><img width="24" src="https://avatars.githubusercontent.com/u/" alt="" /> </a> |, || -->
 
 <!-- /Guestbook -->
 

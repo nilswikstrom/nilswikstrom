@@ -41,14 +41,12 @@ I am currently...
 
 ## GitHub Stats
 
-<!-- template -->  
-
-<!--  
+<!--  TEMPLATE  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" /> -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img height=200 width=390 align="center" src="https://github-readme-stats.vercel.app/api?username=nilswikstrom&theme=tokyonight#gh-dark-mode-only" />

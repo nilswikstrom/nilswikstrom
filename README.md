@@ -7,7 +7,7 @@ Welcome to my GitHub profile! Here, you will find some of my favorite projects, 
 I am currently...  
 👨‍🎓 studying to become an **electrical and telematics engineer**  
 🔭 working on **Arch Linux** & **bash**  
-🌱 learning **Python** % **Machine Learning**  
+🌱 learning **Python** & **Machine Learning**  
 🤔 looking for help with **Python**  
 
 ## ⚒️ Languages and tools I use ⚒️

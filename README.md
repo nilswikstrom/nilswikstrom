@@ -6,9 +6,9 @@ Welcome to my GitHub profile! Here, you will find some of my favorite projects, 
 
 I am currently...  
 👨‍🎓 studying to become an **electrical and telematics engineer**  
-🔭 working on **Arch Linux** & **bash**  
+🔭 working on **Arch Linux** & **Raspberry Pi**  
 🌱 learning **Python** & **Machine Learning**  
-🤔 looking for help with **Python**  
+🤔 looking for help with **Machine Learning**  
 
 ## ⚒️ Languages and tools I use ⚒️
 
@@ -22,8 +22,7 @@ I am currently...
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=mysql&logoColor=white)
-
-<!--![Linux](https://img.shields.io/badge/-LINUX-336791?style=flat-square&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/-LINUX-336791?style=flat-square&logo=linux&logoColor=white)
 
 <!--<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>

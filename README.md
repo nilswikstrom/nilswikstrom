@@ -34,7 +34,7 @@ I am currently...
 ## <img alt="Globe🌍" height="30" src="images/globe.gif"> Find me around the web! <img alt="Globe🌍" height="30" src="images/globe.gif">
 
 [![LinkedIn](https://img.shields.io/badge/-Nils%20Christian%20Wikstrøm-007ACC?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nils-christian-wikstrøm-a481b5208/)
-[![X/Twitter](https://img.shields.io/badge/-「ニルス」Halvorsen-333333?style=flat-square&logo=X&logoColor=white)](https://x.com/_nisken_)
+<!--[![X/Twitter](https://img.shields.io/badge/-「ニルス」Halvorsen-333333?style=flat-square&logo=X&logoColor=white)](https://x.com/_nisken_)-->
 
 <!-- Stats -->
 
